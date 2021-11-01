@@ -1,16 +1,26 @@
-### Hi there 👋
+## <img width="50px" src="https://github.com/Yukino1010/test/blob/master/%E8%80%81%E5%A9%86(10).png" />Ben #
 
-<!--
-**Yukino1010/Yukino1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ben! I'still a student currently studying at Sun Yat-Sen University. I love learing new technology and skills about 
+AI, I have write some ML、DL model and want to share joy with others. I leaving in Taiwan now. I want to work at others country, and to learn more about the latest technology 
+## 😃 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
 
-Here are some ideas to get you started:
+## 🔭 Future goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to improve my English and study abroad to learning more about CS and AI<br>
+And if possible,want to work in big company such as google、meta..... 💪<br>
+
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5, CSS3
+- Python, Java
+- Android app development
+- Machine learning, Deep learning
+
+
+## 💡 Projects
+- 
+
+## 🔗 Get in touch
+
