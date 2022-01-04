@@ -20,7 +20,10 @@ And if possible,want to work in big company such as google、meta..... 💪<br>
 
 
 ## 💡 Projects
-- 
+- [Conditional_GAN](https://github.com/Yukino1010/Conditional_GAN)
+- [Transformer_English_Chinese_Translation](https://github.com/Yukino1010/Transformer_English_Chinese_Translation)
+- [Pokemon_Image_Classification](https://github.com/Yukino1010/Pokemon_Image_Classification)
+
 
 ## 🔗 Get in touch
 
