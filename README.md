@@ -1,7 +1,7 @@
 ## <img width="100px" src="https://github.com/Yukino1010/Yukino1010/blob/main/generate.png" />Ben #
 
-Hi, I'm Ben! I'm still a student currently studying at Sun Yat-Sen University. I love learing new technology and skills about 
-AI, I have write some ML、DL model and want to share joy with others. I leaving in Taiwan now. I want to work at others country, and to learn more about the latest technology 
+Hi, I'm Ben! I'm still a student now. I love learing new technology and skills about 
+AI, I have write some ML、DL model and want to share joy with others. I leaving in Australia now. I want to work at others country, and to learn more about the latest technology 
 ## 😃 My values
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
