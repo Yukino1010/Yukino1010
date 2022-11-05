@@ -1,6 +1,6 @@
 ## <img width="100px" src="https://github.com/Yukino1010/Yukino1010/blob/main/generate.png" />Ben #
 
-I'm from Taiwan and still studying now. I love learning new techniques and skills about AI, especially Machine learning and Deep learning. I have written some ML、DL models and want to share the joy with others. 
+I'm from Taiwan and still studying now. I love learning new techniques and skills about AI, <br> especially Machine learning and Deep learning. I have written some ML、DL models and want to share the joy with others. 
 
 ## 😃 My values
 🍏 Beginner's mindset and curiosity<br>
